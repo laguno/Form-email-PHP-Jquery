@@ -1,0 +1,19 @@
+*{
+    color: blue;
+}
+section{
+    padding: 1em;
+/*    background: url('nature.jpg') ;*/
+    background: url(/img/nature.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 50px auto;
+    width: 50%;
+    
+    
+}
+textarea{
+    resize:none;
+}
